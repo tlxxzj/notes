@@ -1,3 +1,4 @@
 # notes
 
-[Python](python.md)
+- [Python](python.md)
+- [Markdown](https://guides.github.com/features/mastering-markdown/#examples)
